@@ -1,0 +1,80 @@
+﻿https://github.com/pixeltris/GK6X/blob/81761765f020962ed04ad68f8f0837facda7a1fa/GK6X/KeyValues.cs#L269
+
+====== 656801932 ======
+Escape = Esc
+1 = D1
+2 = D2
+3 = D3
+4 = D4
+5 = D5
+6 = D6
+7 = D7
+8 = D8
+9 = D9
+0 = D0
+- = Subtract
+= = Add
+` = BackTick
+Backspace = Backspace
+--------
+Tab = Tab
+Q = Q
+W = W
+E = E
+R = R
+T = T
+Y = Y
+U = U
+I = I
+O = O
+P = P
+[ = OpenSquareBrace
+] = CloseSquareBrace
+| = Backslash
+Delete = Delete
+--------
+Caps Lock = CapsLock
+A = A
+S = S
+D = D
+F = F
+G = G
+H = H
+J = J
+K = K
+L = L
+; = Semicolon
+' = Quotes
+Return = Enter
+Page Up = PageUp
+--------
+Left Shift = LShift
+Z = Z
+X = X
+C = C
+V = V
+B = B
+N = N
+M = M
+, = Comma
+. = Period
+/ = Slash
+Right Shift = RShift
+Up Arrow = Up
+Page Down = PageDown
+--------
+Left Control = LCtrl
+Left GUI = LWin
+Left Alt = LAlt
+fn1 = Space
+fn2 = Space_3
+fn3 = Space_4
+Right Alt = RAlt
+Fn = 4294967295_7
+App = Menu
+Left Arrow = Left
+Down Arrow = Down
+Right Arrow = Right
+--------
+Space = Space_2
+--------

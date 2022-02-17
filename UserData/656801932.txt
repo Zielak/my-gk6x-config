@@ -1,0 +1,131 @@
+﻿
+# =================
+# Windows layer
+# =================
+
+[Layer1]
+Esc:BackTick
+BackTick:Delete
+# ---
+Delete:PageUp
+# ---
+CapsLock:LCtrl
+PageUp:PageDown
+# ---
+PageDown:Home
+# ---
+LCtrl:TempSwitchLayer3
+LWin:F13
+Space_3:Backspace
+Space_4:RAlt
+RAlt:RWin
+Menu:Left
+Left:Right
+Right:End
+
+[FnLayer1]
+Esc:Esc
+D1:F1
+D2:F2
+D3:F3
+D4:F4
+D5:F5
+D6:F6
+D7:F7
+D8:F8
+D9:F9
+D0:F10
+Subtract:F11
+Add:F12
+BackTick:Delete
+# ---
+Backslash:MediaPlayPause
+Delete:VolumeUp
+# ---
+CapsLock:LCtrl
+PageUp:VolumeDown
+# ---
+PageDown:MediaNext
+# ---
+Space_3:Backspace
+# on fn win it's easier to hit ALT+F4
+Space_4:LAlt
+RAlt:RWin
+Menu:Left
+Left:Right
+Right:MediaPrevious
+
+# =================
+# Mac layer
+# =================
+
+[Layer2]
+Esc:BackTick
+BackTick:Delete
+# ---
+Delete:PageUp
+# ---
+CapsLock:LWin
+PageUp:PageDown
+# ---
+PageDown:LWin+Up
+# ---
+LCtrl:TempSwitchLayer3
+LWin:LCtrl
+Space_3:Backspace
+Space_4:RAlt
+RAlt:RWin
+Menu:Left
+Left:Right
+Right:LWin+Down
+
+[FnLayer2]
+BackTick:Esc
+D1:F1
+D2:F2
+D3:F3
+D4:F4
+D5:F5
+D6:F6
+D7:F7
+D8:F8
+D9:F9
+D0:F10
+Subtract:F11
+Add:F12
+BackTick:Delete
+# ---
+Backslash:MediaPlayPause
+Delete:VolumeUp
+# ---
+CapsLock:LWin
+PageUp:VolumeDown
+# ---
+PageDown:MediaNext
+# ---
+LWin:LCtrl
+Space_3:Backspace
+Space_4:RAlt
+RAlt:RWin
+Menu:Left
+Left:Right
+Right:MediaPrevious
+
+# =================
+# 3rd Utility Layer
+# =================
+
+[Layer3]
+D1:F13
+D2:F14
+D3:F15
+D4:F16
+D5:F17
+D6:F18
+D7:F19
+D8:F20
+D9:F21
+D0:F22
+# Subtract:F23
+# Add:F24
+# BackTick:Delete
