@@ -14,9 +14,9 @@ PageUp:PageDown
 # ---
 PageDown:Home
 # ---
-LCtrl:TempSwitchLayer3
+LCtrl:Esc
 LWin:F13
-Space_3:Backspace
+Space_3:TempSwitchLayer3
 Space_4:RAlt
 RAlt:RWin
 Menu:Left
@@ -48,7 +48,7 @@ PageUp:VolumeDown
 PageDown:MediaNext
 # ---
 Space_3:Backspace
-# on fn win it's easier to hit ALT+F4
+# LAlt - on fn win it's easier to hit ALT+F4
 Space_4:LAlt
 RAlt:RWin
 Menu:Left
@@ -70,9 +70,9 @@ PageUp:PageDown
 # ---
 PageDown:LWin+Up
 # ---
-LCtrl:TempSwitchLayer3
+LCtrl:Esc
 LWin:LCtrl
-Space_3:Backspace
+Space_3:TempSwitchLayer3
 Space_4:RAlt
 RAlt:RWin
 Menu:Left
@@ -129,3 +129,12 @@ D0:F22
 # Subtract:F23
 # Add:F24
 # BackTick:Delete
+# ---
+
+# ---
+H:Left
+J:Down
+K:Up
+L:Right
+# ---
+Space:Backspace
