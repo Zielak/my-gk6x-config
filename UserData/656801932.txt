@@ -10,18 +10,16 @@ BackTick:Delete
 Delete:PageUp
 # ---
 CapsLock:LCtrl
-PageUp:PageDown
+PageUp:Home
 # ---
-PageDown:Home
+PageDown:End
 # ---
 LCtrl:Esc
 LWin:F13
-Space_3:TempSwitchLayer3
+Space_3:Backspace
 Space_4:RAlt
 RAlt:RWin
-Menu:Left
-Left:Right
-Right:End
+Menu:PageDown
 
 [FnLayer1]
 Esc:Esc
@@ -43,17 +41,15 @@ Backslash:MediaPlayPause
 Delete:VolumeUp
 # ---
 CapsLock:LCtrl
-PageUp:VolumeDown
+PageUp:MediaNext
 # ---
-PageDown:MediaNext
+PageDown:MediaPrevious
 # ---
 Space_3:Backspace
 # LAlt - on fn win it's easier to hit ALT+F4
 Space_4:LAlt
 RAlt:RWin
-Menu:Left
-Left:Right
-Right:MediaPrevious
+Menu:VolumeDown
 
 # =================
 # Mac layer
@@ -66,18 +62,16 @@ BackTick:Delete
 Delete:PageUp
 # ---
 CapsLock:LWin
-PageUp:PageDown
+PageUp:LWin+Up
 # ---
-PageDown:LWin+Up
+PageDown:LWin+Down
 # ---
 LCtrl:Esc
 LWin:LCtrl
-Space_3:TempSwitchLayer3
+Space_3:Backspace
 Space_4:RAlt
 RAlt:RWin
-Menu:Left
-Left:Right
-Right:LWin+Down
+Menu:PageDown
 
 [FnLayer2]
 BackTick:Esc
@@ -99,42 +93,39 @@ Backslash:MediaPlayPause
 Delete:VolumeUp
 # ---
 CapsLock:LWin
-PageUp:VolumeDown
+PageUp:MediaNext
 # ---
-PageDown:MediaNext
+PageDown:MediaPrevious
 # ---
 LWin:LCtrl
 Space_3:Backspace
 Space_4:RAlt
 RAlt:RWin
-Menu:Left
-Left:Right
-Right:MediaPrevious
+Menu:VolumeDown
 
 # =================
 # 3rd Utility Layer
 # =================
 
-[Layer3]
-D1:F13
-D2:F14
-D3:F15
-D4:F16
-D5:F17
-D6:F18
-D7:F19
-D8:F20
-D9:F21
-D0:F22
-# Subtract:F23
-# Add:F24
+# [Layer3]
+# D1:F13
+# D2:F14
+# D3:F15
+# D4:F16
+# D5:F17
+# D6:F18
+# D7:F19
+# D8:F20
+# D9:F21
+# D0:F22
+# # Subtract:F23
+# # Add:F24
 # BackTick:Delete
-# ---
-
-# ---
-H:Left
-J:Down
-K:Up
-L:Right
-# ---
-Space:Backspace
+# # ---
+# W:Up
+# # ---
+# A:Left
+# S:Down
+# D:Right
+# # ---
+# Space:Backspace
